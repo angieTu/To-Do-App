@@ -1,0 +1,18 @@
+footer {
+  position: fixed;
+  height: 100px;
+  background-color: black;
+  text-align: center;
+  color: #e7e273;
+  bottom: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  a {
+    font-weight: bolder;
+    color: #e7e273;
+  }
+}
